@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728160170086.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728161996119.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Homepage"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724/style-1728160170086.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724/fonts-1728160170086.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724/style-1728161996119.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724/fonts-1728161996119.css" />\
       <div class="freeLayout">\
       <div id="s-Dynamic_panel_4" class="dynamicpanel firer ie-background commentable non-processed" customid="About" datasizewidth="430.00px" datasizeheight="299.28px" dataX="0.00" dataY="1359.00" >\
         <div id="s-Panel_11" class="panel default firer swipeleft swiperight click ie-background commentable non-processed" customid="Panel 1"  datasizewidth="430.00px" datasizeheight="299.28px" >\
@@ -1888,7 +1888,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
           </div>\
         </div>\
 \
-        <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.00px" datasizeheight="0.00px" >\
+        <div id="s-Group_8" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.00px" datasizeheight="0.00px" >\
           <div id="s-Line_1" class="path firer ie-background commentable pin vpin-center hpin-beginning non-processed-pin non-processed" customid="Line 1"   datasizewidth="52.00px" datasizeheight="7.00px" dataX="39.00" dataY="-379.00"  >\
             <div class="borderLayer">\
             	<div class="imageViewport">\
@@ -1963,7 +1963,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             </div>\
           </div>\
         </div>\
-        <div id="s-Hotspot_1" class="imagemap firer click ie-background commentable non-processed" customid="Menu Hotspot"   datasizewidth="100.00px" datasizeheight="80.00px" dataX="11.00" dataY="18.00"  >\
+        <div id="s-Hotspot_1" class="imagemap firer click ie-background commentable pin vpin-center hpin-beginning non-processed-pin non-processed" customid="Menu Hotspot"   datasizewidth="122.00px" datasizeheight="103.00px" dataX="0.00" dataY="-415.50"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\

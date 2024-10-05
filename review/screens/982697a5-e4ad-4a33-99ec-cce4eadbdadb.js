@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728160170086.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728161996119.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="s-982697a5-e4ad-4a33-99ec-cce4eadbdadb" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="About"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/982697a5-e4ad-4a33-99ec-cce4eadbdadb/style-1728160170086.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/982697a5-e4ad-4a33-99ec-cce4eadbdadb/fonts-1728160170086.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/982697a5-e4ad-4a33-99ec-cce4eadbdadb/style-1728161996119.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/982697a5-e4ad-4a33-99ec-cce4eadbdadb/fonts-1728161996119.css" />\
       <div class="freeLayout">\
       <div id="s-Text_7" class="richtext autofit firer ie-background commentable non-processed" customid="About"   datasizewidth="103.36px" datasizeheight="43.00px" dataX="11.00" dataY="107.00" >\
         <div class="backgroundLayer">\
@@ -44,6 +44,21 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
 \
         	  </div>\
         	</div>\
+        </div>\
+      </div>\
+      <div id="s-Text_2" class="richtext manualfit firer ie-background commentable non-processed" customid="Footer"   datasizewidth="416.93px" datasizeheight="33.00px" dataX="6.54" dataY="899.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_2_0">Privacy Policy | Sitemap<br />Copyright 2024 - Taniti Tourism Board</span>\
+              </div>\
+            </div>\
+          </div>\
         </div>\
       </div>\
       <div id="s-Text_4" class="richtext manualfit firer click ie-background commentable non-processed" customid="Photo by Wisnu Widjojo on"   datasizewidth="426.00px" datasizeheight="24.00px" dataX="0.05" dataY="402.00" >\
@@ -184,23 +199,8 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             </div>\
           </div>\
         </div>\
-        <div id="s-Hotspot_1" class="imagemap firer click ie-background commentable non-processed" customid="Menu Hotspot"   datasizewidth="100.00px" datasizeheight="80.00px" dataX="11.00" dataY="18.00"  >\
+        <div id="s-Hotspot_1" class="imagemap firer click ie-background commentable pin vpin-center hpin-beginning non-processed-pin non-processed" customid="Menu Hotspot"   datasizewidth="122.00px" datasizeheight="103.00px" dataX="0.00" dataY="-415.50"  >\
           <div class="clickableSpot"></div>\
-        </div>\
-        <div id="s-Text_2" class="richtext manualfit firer ie-background commentable non-processed" customid="Footer"   datasizewidth="416.93px" datasizeheight="33.00px" dataX="6.54" dataY="899.00" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Text_2_0">Privacy Policy | Sitemap<br />Copyright 2024 - Taniti Tourism Board</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
         </div>\
       </div>\
 \
