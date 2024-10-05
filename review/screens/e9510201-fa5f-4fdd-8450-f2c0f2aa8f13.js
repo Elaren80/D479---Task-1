@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728156546498.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728160170086.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="s-e9510201-fa5f-4fdd-8450-f2c0f2aa8f13" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Experiences"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/e9510201-fa5f-4fdd-8450-f2c0f2aa8f13/style-1728156546498.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/e9510201-fa5f-4fdd-8450-f2c0f2aa8f13/fonts-1728156546498.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/e9510201-fa5f-4fdd-8450-f2c0f2aa8f13/style-1728160170086.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/e9510201-fa5f-4fdd-8450-f2c0f2aa8f13/fonts-1728160170086.css" />\
       <div class="freeLayout">\
       <div id="s-Text_1" class="richtext autofit firer ie-background commentable non-processed" customid="Experiences"   datasizewidth="204.71px" datasizeheight="43.00px" dataX="11.00" dataY="107.00" >\
         <div class="backgroundLayer">\
@@ -48,6 +48,21 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
                   </div>\
                 </div>\
 \
+                <div id="s-Text_9" class="richtext manualfit firer click ie-background commentable non-processed" customid="Photo by Rosalind Chang o"   datasizewidth="426.00px" datasizeheight="24.00px" dataX="2.13" dataY="241.18" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Text_9_0">Photo by Rosalind Chang on Unsplash</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
                 <div id="s-Text_5" class="richtext manualfit firer ie-background commentable non-processed" customid="DiningVisit a pub house o"   datasizewidth="407.25px" datasizeheight="488.00px" dataX="12.00" dataY="264.00" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
@@ -198,6 +213,21 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
                   </div>\
                 </div>\
 \
+                <div id="s-Text_10" class="richtext manualfit firer click ie-background commentable non-processed" customid="Photo by Chris Curry on U"   datasizewidth="426.00px" datasizeheight="24.00px" dataX="0.00" dataY="240.14" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Text_10_0">Photo by Chris Curry on Unsplash</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
                 <div id="s-Text_4" class="richtext manualfit firer ie-background commentable non-processed" customid="City LifeThere&#039;s lots to "   datasizewidth="407.25px" datasizeheight="488.00px" dataX="12.00" dataY="264.00" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
@@ -348,6 +378,21 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
                   </div>\
                 </div>\
 \
+                <div id="s-Text_11" class="richtext manualfit firer click ie-background commentable non-processed" customid="Photo by Nathan Cima on U"   datasizewidth="426.00px" datasizeheight="24.00px" dataX="2.00" dataY="238.24" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Text_11_0">Photo by Nathan Cima on Unsplash</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
                 <div id="s-Text_7" class="richtext manualfit firer ie-background commentable non-processed" customid="BeachesVisit our white sa"   datasizewidth="407.25px" datasizeheight="488.00px" dataX="12.00" dataY="264.00" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
@@ -508,6 +553,21 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
                       <div class="content">\
                         <div class="valign">\
                           <span id="rtr-s-Text_6_0">Rainforest<br /></span><span id="rtr-s-Text_6_1">Go zip-lining through a rainforest, hike to our active volcano, take a helicopter ride, or a boat or bus tour of the island.</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
+                <div id="s-Text_12" class="richtext manualfit firer click ie-background commentable non-processed" customid="Photo by Jacob Plumb on U"   datasizewidth="426.00px" datasizeheight="24.00px" dataX="2.00" dataY="239.14" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Text_12_0">Photo by Jacob Plumb on Unsplash</span>\
                         </div>\
                       </div>\
                     </div>\

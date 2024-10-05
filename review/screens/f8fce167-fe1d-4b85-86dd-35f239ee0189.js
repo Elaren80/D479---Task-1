@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728156546498.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728160170086.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="s-f8fce167-fe1d-4b85-86dd-35f239ee0189" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Plan your stay"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/f8fce167-fe1d-4b85-86dd-35f239ee0189/style-1728156546498.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/f8fce167-fe1d-4b85-86dd-35f239ee0189/fonts-1728156546498.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/f8fce167-fe1d-4b85-86dd-35f239ee0189/style-1728160170086.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/f8fce167-fe1d-4b85-86dd-35f239ee0189/fonts-1728160170086.css" />\
       <div class="freeLayout">\
       <div id="s-Text_2" class="richtext manualfit firer ie-background commentable non-processed" customid="Footer"   datasizewidth="416.93px" datasizeheight="33.00px" dataX="6.54" dataY="1015.00" >\
         <div class="backgroundLayer">\
@@ -102,6 +102,21 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
         	</div>\
         </div>\
       </div>\
+      <div id="s-Text_8" class="richtext manualfit firer click ie-background commentable non-processed" customid="Photo by Shifaaz Shamoon "   datasizewidth="426.00px" datasizeheight="24.00px" dataX="6.00" dataY="402.50" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_8_0">Photo by Shifaaz Shamoon on Unsplash</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       <div id="s-Text_6" class="richtext manualfit firer ie-background commentable non-processed" customid="Lodging optionsTaniti has"   datasizewidth="407.25px" datasizeheight="111.00px" dataX="11.38" dataY="874.00" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
@@ -112,6 +127,21 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             <div class="content">\
               <div class="valign">\
                 <span id="rtr-s-Text_6_0">Lodging options<br /></span><span id="rtr-s-Text_6_1">Taniti has a hostel, four-star resort, many family-owned hotels and also several bed &amp; breakfasts</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Text_9" class="richtext manualfit firer click ie-background commentable non-processed" customid="Photo by Sara Dubler on U"   datasizewidth="426.00px" datasizeheight="24.00px" dataX="-2.23" dataY="845.51" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_9_0">Photo by Sara Dubler on Unsplash</span>\
               </div>\
             </div>\
           </div>\

@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728156546498.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728160170086.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="s-982697a5-e4ad-4a33-99ec-cce4eadbdadb" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="About"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/982697a5-e4ad-4a33-99ec-cce4eadbdadb/style-1728156546498.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/982697a5-e4ad-4a33-99ec-cce4eadbdadb/fonts-1728156546498.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/982697a5-e4ad-4a33-99ec-cce4eadbdadb/style-1728160170086.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/982697a5-e4ad-4a33-99ec-cce4eadbdadb/fonts-1728160170086.css" />\
       <div class="freeLayout">\
       <div id="s-Text_7" class="richtext autofit firer ie-background commentable non-processed" customid="About"   datasizewidth="103.36px" datasizeheight="43.00px" dataX="11.00" dataY="107.00" >\
         <div class="backgroundLayer">\
@@ -44,6 +44,36 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
 \
         	  </div>\
         	</div>\
+        </div>\
+      </div>\
+      <div id="s-Text_4" class="richtext manualfit firer click ie-background commentable non-processed" customid="Photo by Wisnu Widjojo on"   datasizewidth="426.00px" datasizeheight="24.00px" dataX="0.05" dataY="402.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_4_0">Photo by Wisnu Widjojo on Unsplash</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Text_3" class="richtext manualfit firer ie-background commentable non-processed" customid="TanitiThe modern nation o"   datasizewidth="407.25px" datasizeheight="336.00px" dataX="11.75" dataY="427.44" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_3_0">Taniti<br /></span><span id="rtr-s-Text_3_1">The modern nation of Taniti was founded in 1946. Our indigenous population is about 20,000 people.<br /></span><span id="rtr-s-Text_3_2"><br />Local customs<br /></span><span id="rtr-s-Text_3_3">Taniti culture is rich and vibrant. We like to dance and practice the martial arts. Our traditional songs can be traced back thousands of years.<br /><br /></span><span id="rtr-s-Text_3_4">Major Cities<br /></span><span id="rtr-s-Text_3_5">Taniti has two major cities: Taniti City, the capital, and Merriton Landing on the north side of Yellow Leaf Bay. Many towns and villages dot the 500 square mile island.</span>\
+              </div>\
+            </div>\
+          </div>\
         </div>\
       </div>\
 \
@@ -174,21 +204,6 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
         </div>\
       </div>\
 \
-      <div id="s-Text_3" class="richtext manualfit firer ie-background commentable non-processed" customid="TanitiThe modern nation o"   datasizewidth="407.25px" datasizeheight="336.00px" dataX="11.75" dataY="427.44" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Text_3_0">Taniti<br /></span><span id="rtr-s-Text_3_1">The modern nation of Taniti was founded in 1946. Our indigenous population is about 20,000 people.<br /></span><span id="rtr-s-Text_3_2"><br />Local customs<br /></span><span id="rtr-s-Text_3_3">Taniti culture is rich and vibrant. We like to dance and practice the martial arts. Our traditional songs can be traced back thousands of years.<br /><br /></span><span id="rtr-s-Text_3_4">Major Cities<br /></span><span id="rtr-s-Text_3_5">Taniti has two major cities: Taniti City, the capital, and Merriton Landing on the north side of Yellow Leaf Bay. Many towns and villages dot the 500 square mile island.</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
       </div>\
 \
       </div>\

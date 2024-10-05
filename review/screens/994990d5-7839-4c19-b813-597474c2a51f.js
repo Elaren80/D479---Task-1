@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728156546498.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728160170086.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="s-994990d5-7839-4c19-b813-597474c2a51f" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="FAQs"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/994990d5-7839-4c19-b813-597474c2a51f/style-1728156546498.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/994990d5-7839-4c19-b813-597474c2a51f/fonts-1728156546498.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/994990d5-7839-4c19-b813-597474c2a51f/style-1728160170086.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/994990d5-7839-4c19-b813-597474c2a51f/fonts-1728160170086.css" />\
       <div class="freeLayout">\
       <div id="s-Text_2" class="richtext manualfit firer ie-background commentable non-processed" customid="Footer"   datasizewidth="416.93px" datasizeheight="33.00px" dataX="6.54" dataY="899.00" >\
         <div class="backgroundLayer">\
