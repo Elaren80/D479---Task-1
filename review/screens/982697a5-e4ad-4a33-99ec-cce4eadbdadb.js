@@ -85,7 +85,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Text_3_0">Taniti<br /></span><span id="rtr-s-Text_3_1">The modern nation of Taniti was founded in 1946. Our indigenous population is about 20,000 people.<br /></span><span id="rtr-s-Text_3_2"><br />Local customs<br /></span><span id="rtr-s-Text_3_3">Taniti culture is rich and vibrant. We like to dance and practice the martial arts. Our traditional songs can be traced back thousands of years.<br /><br /></span><span id="rtr-s-Text_3_4">Major Cities<br /></span><span id="rtr-s-Text_3_5">Taniti has two major cities: Taniti City, the capital, and Merriton Landing on the north side of Yellow Leaf Bay. Many towns and villages dot the 500 square mile island.</span>\
+                <span id="rtr-s-Text_3_0">Taniti<br /></span><span id="rtr-s-Text_3_1">The modern nation of Taniti was founded in 1946. Our indigenous population is about 20,000 people. The island of Taniti is located in the Pacific Ocean.<br /></span><span id="rtr-s-Text_3_2"><br />Local customs<br /></span><span id="rtr-s-Text_3_3">Taniti culture is rich and vibrant. We like to dance and practice the martial arts. Our traditional songs can be traced back thousands of years.<br /><br /></span><span id="rtr-s-Text_3_4">Major Cities<br /></span><span id="rtr-s-Text_3_5">Taniti has two major cities: Taniti City, the capital, and Merriton Landing on the north side of Yellow Leaf Bay. Many towns and villages dot the 500 square mile island.</span>\
               </div>\
             </div>\
           </div>\
